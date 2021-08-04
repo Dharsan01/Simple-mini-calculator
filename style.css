@@ -1,0 +1,30 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.buttons{
+ padding: 10px;     
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+input{
+    margin: 4px;
+    padding: 5px;
+}
+.dbox{
+    height:200px;
+    width: 400px;
+    background-color:blanchedalmond;
+    margin: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.dbox h3{
+    color: burlywood;
+    font-size: medium;
+}
